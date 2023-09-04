@@ -1,5 +1,7 @@
+.env
 .venv
 .vscode
 __pycache__
 *.pyc
 .DS_Store
+Postgres DB links in ElephantSQL.txt
